@@ -1,6 +1,6 @@
 # Cloud Desktop Management Platform
 
-The Cloud Desktop Management Platform is a comprehensive solution for managing and accessing cloud desktops, including server-side, web frontend, and client applications. This platform allows users to create, manage, and connect to virtual cloud desktops, supporting GPU allocation, disk management, and user permission control.
+The cloud desktop management platform is a comprehensive solution based on Windows Hyper-V for managing and accessing cloud desktops, including server-side, web front-end, and client-side applications. This platform allows users to create, manage, and connect to virtual cloud desktops, supporting GPU allocation, disk management, and user permission control.
 
 ![Cloud Desktop Management Platform](./images/云桌面.png)
 
@@ -65,7 +65,7 @@ The desktop client is developed using Python and PyQt5, providing a Windows desk
 
 ### Android Client (client_android)
 
-The Android client is developed based on the uni-app framework and can be built into an Android application.
+The Android client is developed based on the uni app framework and can be built into an Android application. It requires the installation of RDP 8.0 client.
 
 
 
