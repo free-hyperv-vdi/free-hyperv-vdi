@@ -1,6 +1,6 @@
 # Cloud Desktop Management Platform
 
-The cloud desktop management platform is a comprehensive solution based on Windows Hyper-V for managing and accessing cloud desktops, including server-side, web front-end, and client-side applications. This platform allows users to create, manage, and connect to virtual cloud desktops, supporting GPU allocation, disk management, and user permission control.
+The cloud desktop management platform is a comprehensive solution for managing and accessing RDP cloud desktops based on Windows hyper-v virtualization, including server-side, web front-end, and client-side applications. This platform allows users to create, manage, and connect to virtual cloud desktops, supporting GPU virtualization allocation, disk management, and user permission control.
 
 ![Cloud Desktop Management Platform](./images/云桌面.png)
 
