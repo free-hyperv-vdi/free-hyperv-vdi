@@ -1,0 +1,39 @@
+{
+    "name": "callrdc",
+    "id": "callrdc",
+    "version": "1.0.0",
+    "description": "插件描述信息",
+    "_dp_type": "nativeplugin",
+    "_dp_nativeplugin": {
+        "android": {
+            "plugins": [{
+                "type": "module",
+                "name": "callrdc",
+                "class": "com.example.callrdc.CallRdcMethod"
+            }],
+            "hooksClass": "",
+            "integrateType": "aar",
+            "dependencies": [
+                ""
+            ],
+            "excludeDependencies": [
+                ""
+            ],
+            "compileOptions": {
+                "sourceCompatibility": "1.8",
+                "targetCompatibility": "1.8"
+            },
+            "abis": [
+                "armeabi-v7a",
+                "arm64-v8a",
+                "x86"
+            ],
+            "minSdkVersion": "25",
+            "useAndroidX": false,
+            "permissions": [
+                ""
+            ],
+            "parameters": {}
+        }
+    }
+}

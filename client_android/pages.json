@@ -1,0 +1,53 @@
+{
+    "pages": [ //pages数组中第一项表示应用启动页,
+        {
+            "path": "pages/login/login",
+            "style": {
+                "navigationBarTitleText": "云桌面客户端"
+            }
+        },
+        {
+            "path": "pages/config/config",
+            "style": {
+                "navigationBarTitleText": "服务端配置",
+                "enablePullDownRefresh": false
+            }
+        },
+        {
+            "path": "pages/device/device",
+            "style": {
+                "navigationBarTitleText": "云桌面列表",
+                "enablePullDownRefresh": false
+            }
+        },
+        {
+            "path" : "pages/password/password",
+            "style" : 
+            {
+                "navigationBarTitleText" : "",
+                "enablePullDownRefresh" : false
+            }
+        }
+    ],
+    // "tabBar": {
+    //     "color": "#7a7e83",
+    //     "selectedColor": "#0faeff",
+    //     "backgroundColor": "#ffffff",
+    //     "list": [{
+    //         "pagePath": "pages/main/main",
+    //         "text": "首页",
+    //         "iconPath": "static/img/home.png",
+    //         "selectedIconPath": "static/img/homeHL.png"
+    //     }, {
+    //         "pagePath": "pages/login/login",
+    //         "text": "我的",
+    //         "iconPath": "static/img/user.png",
+    //         "selectedIconPath": "static/img/userHL.png"
+    //     }]
+    // },
+    "globalStyle": {
+        "navigationBarTextStyle": "white",
+        "navigationBarBackgroundColor": "#0faeff",
+        "backgroundColor": "#fbf9fe"
+    }
+}
