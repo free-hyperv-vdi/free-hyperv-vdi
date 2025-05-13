@@ -2,6 +2,8 @@
 
 The Cloud Desktop Management Platform is a comprehensive solution for managing and accessing cloud desktops, including server-side, web frontend, and client applications. This platform allows users to create, manage, and connect to virtual cloud desktops, supporting GPU allocation, disk management, and user permission control.
 
+![Cloud Desktop Management Platform](./images/云桌面.png)
+
 ## Project Structure
 
 The project contains the following main components:
@@ -18,6 +20,8 @@ The project contains the following main components:
 - Cloud Desktop Management: Create, start, shut down, and restart cloud desktops
 - Hardware Resource Management: Allocate and monitor GPU resources, manage disk space
 - Remote Connection: Connect to cloud desktops via RDP protocol
+
+![System Homepage](./images/首页.png)
 
 
 ## Component Description
